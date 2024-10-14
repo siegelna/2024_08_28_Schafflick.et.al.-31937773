@@ -4,3 +4,4 @@ scTools
 *.h5
 *.gz
 *.tar
+*.h5ad
